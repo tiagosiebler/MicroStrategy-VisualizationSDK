@@ -1,0 +1,1 @@
+This is just a minimal boilerplate visualization that has nothing but some placeholders, in the default plugin structure created by the Visualization Builder.
