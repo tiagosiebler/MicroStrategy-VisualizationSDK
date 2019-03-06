@@ -1,0 +1,5 @@
+<visualizations>
+  <visualization-list name="ajax" show-in-web="true" view-mode="51">
+    <visualization attribute-minimum="1" metric-minimum="1" desc="SimpleJSVisualization" drop-zones="plugins.SimpleJSVisualization.SimpleJSVisualizationDropZones" editor-model="plugins.SimpleJSVisualization.SimpleJSVisualizationEditorModel" is-mojo="true" scope="19" style-name="SimpleJSVisualization" widget-type="7"/>
+  </visualization-list>
+</visualizations>

@@ -1,0 +1,1 @@
+After the visualization plugin structure's been created using the vis builder, I prefer to continue development with my favourite IDE. Testing can be done with a dossier in MicroStrategy Web, while changes are added to the source via my favourite IDE. Save and refresh in Web.

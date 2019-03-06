@@ -1,0 +1,5 @@
+<visualizations>
+  <visualization-list name="ajax" show-in-web="true" view-mode="51">
+    <visualization attribute-minimum="1" desc="MyTestVis" drop-zones="plugins.MyTestVis.MyTestVisDropZones" editor-model="plugins.MyTestVis.MyTestVisEditorModel" is-mojo="true" metric-minimum="0" scope="19" style-name="MyTestVis" widget-type="7"/>
+  </visualization-list>
+</visualizations>
